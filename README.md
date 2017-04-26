@@ -1,2 +1,4 @@
 # Drugie-w-Kolejce
-test_2_samodzielny
+
+
+Całkiem sprawnie to idzie.
